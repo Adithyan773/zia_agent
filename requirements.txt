@@ -1,0 +1,12 @@
+langchain-community
+langchain-huggingface
+langchain-chroma
+fastapi[standard]
+pydantic-settings
+langchain_groq
+langchain
+groq
+psycopg2
+sqlmodel
+sqlalchemy
+psycopg-binary
